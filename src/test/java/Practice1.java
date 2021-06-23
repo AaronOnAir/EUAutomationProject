@@ -4,6 +4,11 @@ public class Practice1 {
 
         System.out.println("Work 1");
 
+        //Succesfully pushed project to GitHub
+            // first IntelliJ automatically created remote repo
+                //created connection between lcoal repo and remote repo
+                    //pushed local commits to remote repo
+
     }
 
 }
